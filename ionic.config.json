@@ -1,0 +1,7 @@
+{
+  "name": "residuos",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
